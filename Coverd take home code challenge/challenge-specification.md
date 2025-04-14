@@ -89,6 +89,7 @@ You may use any of the following technologies:
 - Web: React, Vue, or Angular
 - iOS: Swift with UIKit or SwiftUI
 - Android: Kotlin with Jetpack Compose
+- Or any other language you prefer
 
 **Database:**
-- in memory map is sufficient
+- in memory is sufficient
