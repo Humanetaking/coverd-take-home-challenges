@@ -1,0 +1,18 @@
+{
+    "devDependencies": {
+        "@types/node": "^22.14.1",
+        "ts-node-dev": "^2.0.0"
+    },
+    "scripts": {
+        "compile": "tsc",
+        "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+        "start": "npm run compile && node ./dist/index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^5.1.0"
+    },
+    "compilerOptions": {
+        "module": "NodeNext"
+    }
+}
