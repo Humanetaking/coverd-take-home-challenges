@@ -1,6 +1,5 @@
 // components/BlackjackGame.jsx
 import React from 'react';
-import './BlackjackGame.css';
 
 function BlackjackGame({ gameResults }) {
   // Implement the blackjack game visualization component

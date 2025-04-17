@@ -1,6 +1,5 @@
 // components/TransactionDashboard.jsx
 import React from 'react';
-import './TransactionDashboard.css';
 
 function TransactionDashboard({ transactions }) {
   // Implement the transaction dashboard component

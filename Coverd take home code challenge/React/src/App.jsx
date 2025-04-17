@@ -1,6 +1,5 @@
 // App.jsx - Main application component
 import React, { useState, useEffect } from 'react';
-import './App.css';
 import TransactionDashboard from './components/TransactionDashboard';
 import BlackjackGame from './components/BlackjackGame';
 
